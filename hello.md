@@ -12,3 +12,9 @@
 
 - checkout : 특정 파일의 내용을, 마지막 커밋으로 돌리고 싶다면 해당 파일 선택 후 '코드 뭉치 버리기' 버튼
 - commit -> save -> checkout
+
+## convert BRANCH
+
+- BRANCH? 기존 내용을 유지한 채, 새로운 내용을 추가하고자 할 때
+- checkout : 특정 브랜치(혹은 커밋) 으로 돌아가고 싶을 때
+- checkout in SOURCETREE : double-click the branch
