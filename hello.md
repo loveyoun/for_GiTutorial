@@ -18,3 +18,9 @@
 - BRANCH? 기존 내용을 유지한 채, 새로운 내용을 추가하고자 할 때
 - checkout : 특정 브랜치(혹은 커밋) 으로 돌아가고 싶을 때
 - checkout in SOURCETREE : double-click the branch
+
+## 병합하기 1
+
+- 헤드 브랜치에 변경사항이 없고
+- 병합 대상 브랜치가 헤드로부터 시작된 경우
+- 아주 쉽게 병합 가능 = Fast-forward
